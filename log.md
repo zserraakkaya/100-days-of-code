@@ -12,3 +12,8 @@
 
 ---
 
+### Day 2: January 18, 2024
+
+**Today's Progress**: Today I completed "Building a Nutrition Label" and "Building a Quiz" steps of Responsive Web Design Certification.
+
+---
