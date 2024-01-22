@@ -43,7 +43,9 @@
 
 ### Day 6: January 22, 2024
 
-**Today's Progress**:
+**Today's Progress**: Today I made a Tribute Page for Responsive Web Design Certification. Code at: [Ataturk](https://github.com/zserraakkaya/freeCodeCamp-ResponsiveWebDesignCertification/blob/main/README.md)
+
+!()[https://github.com/zserraakkaya/freeCodeCamp-ResponsiveWebDesignCertification/blob/main/Ataturk/ss.png]
 
 ---
 
