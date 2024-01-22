@@ -29,6 +29,8 @@
 
 **Today's Progress**: Today I completed the Cat Painting step
 
+![cat](https://github.com/zserraakkaya/freeCodeCamp-ResponsiveWebDesignCertification/blob/main/img/cat.png)
+
 ---
 
 ### Day 5: January 21, 2024
