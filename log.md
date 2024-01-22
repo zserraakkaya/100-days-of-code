@@ -23,6 +23,8 @@
 **Today's Progress**: Today I build a Balance Sheet for Responsive Web Design Certification. And also I completed the Survey Form Project. You can find the code at:
 [Survey Form](https://github.com/zserraakkaya/freeCodeCamp-ResponsiveWebDesignCertification/blob/main/README.md)
 
+![](https://github.com/zserraakkaya/freeCodeCamp-ResponsiveWebDesignCertification/blob/main/SurveyForm/Screenshot%202024-01-19%20at%2020.33.37.png)
+
 ---
 
 ### Day 4: January 20, 2024
