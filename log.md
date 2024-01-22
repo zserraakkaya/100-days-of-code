@@ -45,7 +45,7 @@
 
 **Today's Progress**: Today I made a Tribute Page for Responsive Web Design Certification. Code at: [Ataturk](https://github.com/zserraakkaya/freeCodeCamp-ResponsiveWebDesignCertification/blob/main/README.md)
 
-!()[https://github.com/zserraakkaya/freeCodeCamp-ResponsiveWebDesignCertification/blob/main/Ataturk/ss.png]
+![](https://github.com/zserraakkaya/freeCodeCamp-ResponsiveWebDesignCertification/blob/main/Ataturk/ss.png)
 
 ---
 
