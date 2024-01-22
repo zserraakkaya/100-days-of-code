@@ -22,3 +22,45 @@
 
 **Today's Progress**: Today I build a Balance Sheet for Responsive Web Design Certification. And also I completed the Survey Form Project. You can find the code at:
 [Survey Form](https://github.com/zserraakkaya/freeCodeCamp-ResponsiveWebDesignCertification/blob/main/README.md)
+
+---
+
+### Day 4: January 20, 2024
+
+**Today's Progress**: Today I completed the Cat Painting step
+
+---
+
+### Day 5: January 21, 2024
+
+**Today's Progress**: Today I completed Building a Piano step on fCC RWD Certification
+
+---
+
+### Day 6: January 22, 2024
+
+**Today's Progress**:
+
+---
+
+### Day 7: January 23, 2024
+
+**Today's Progress**:
+
+---
+
+### Day 8: January 24, 2024
+
+**Today's Progress**:
+
+---
+
+### Day 9: January 25, 2024
+
+**Today's Progress**:
+
+---
+
+### Day 10: January 26, 2024
+
+**Today's Progress**:
