@@ -51,7 +51,7 @@
 
 ### Day 7: January 23, 2024
 
-**Today's Progress**:
+**Today's Progress**: Today I completed City Skyline step of Responsive Web Design Certification.
 
 ---
 
