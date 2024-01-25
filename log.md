@@ -57,7 +57,7 @@
 
 ### Day 8: January 24, 2024
 
-**Today's Progress**:
+**Today's Progress**: Today I completed Magazine, Ferris Wheel and Penguin steps of Responsive Web Design. Just 3 certification projects left😊
 
 ---
 
