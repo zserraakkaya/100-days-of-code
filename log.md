@@ -63,7 +63,7 @@
 
 ### Day 9: January 25, 2024
 
-**Today's Progress**:
+**Today's Progress**: Today I completed the last 3 Certification Projects: Technical Documentation Page, Product Landing Page and Personal Portfolio Page. And I finally take Responsive Web Design Certification!!! Next: JavaScript
 
 ---
 
