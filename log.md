@@ -69,4 +69,34 @@
 
 ### Day 10: January 26, 2024
 
+**Today's Progress**: I started JavaScript Certification of freeCodeCamp, I am at level 153/176 of Role Playing Game
+
+---
+
+### Day 11: January 27, 2024
+
+**Today's Progress**:
+
+---
+
+### Day 12: January 28, 2024
+
+**Today's Progress**:
+
+---
+
+### Day 13: January 29, 2024
+
+**Today's Progress**:
+
+---
+
+### Day 14: January 30, 2024
+
+**Today's Progress**:
+
+---
+
+### Day 15: January 31, 2024
+
 **Today's Progress**:
