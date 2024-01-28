@@ -75,7 +75,7 @@
 
 ### Day 11: January 27, 2024
 
-**Today's Progress**:
+**Today's Progress**: I completed Calorie Counter step of JS Certification
 
 ---
 
