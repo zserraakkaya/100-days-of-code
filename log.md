@@ -87,7 +87,7 @@
 
 ### Day 13: January 29, 2024
 
-**Today's Progress**: I learnt Date object on JavaScript.
+**Today's Progress**: I learnt about Date object on JavaScript and completed "building a date formatter" step of JavaScript Certification
 
 ---
 
