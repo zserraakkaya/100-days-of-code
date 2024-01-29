@@ -81,13 +81,13 @@
 
 ### Day 12: January 28, 2024
 
-**Today's Progress**:
+**Today's Progress**: I did a Music Player with JavaScript
 
 ---
 
 ### Day 13: January 29, 2024
 
-**Today's Progress**:
+**Today's Progress**: I learnt Date object on JavaScript.
 
 ---
 
