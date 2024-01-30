@@ -93,7 +93,7 @@
 
 ### Day 14: January 30, 2024
 
-**Today's Progress**:
+**Today's Progress**: I did one more of step of JavaScript Project, I learnt about Object.freeze, map, filter methods
 
 ---
 
