@@ -93,19 +93,19 @@
 
 ### Day 14: January 30, 2024
 
-**Today's Progress**: I did one more of step of JavaScript Project, I learnt about Object.freeze, map, filter methods
+**Today's Progress**: I did one more of step of JavaScript Project, I learnt about Object.freeze, map(), filter() methods
 
 ---
 
 ### Day 15: January 31, 2024
 
-**Today's Progress**:
+**Today's Progress**: I started to learn about 'local storage' in JavaScript.
 
 ---
 
 ### Day 16: February 1, 2024
 
-**Today's Progress**:
+**Today's Progress**: I finished my fifth semester on Computer Science today. I completed and submitted all of the projects for my courses and I entered all my lecture exams. Starting from today, I will be more dedicated to progress:)
 
 ---
 
