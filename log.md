@@ -111,7 +111,7 @@
 
 ### Day 17: February 2, 2024
 
-**Today's Progress**:
+**Today's Progress**: Today I completed ToDo App on fCC. I learned about localStorage: .setItem, .getItem, .removeItem and .clear methods. I also learned about classList.toggle method on elements.
 
 ---
 
