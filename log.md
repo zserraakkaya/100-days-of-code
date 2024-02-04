@@ -117,7 +117,7 @@
 
 ### Day 18: February 3, 2024
 
-**Today's Progress**:
+**Today's Progress**: I started to build a Decimal to Binary Converter. I learnt about Recursion and LIFO (Last In First Out) Stack.
 
 ---
 
