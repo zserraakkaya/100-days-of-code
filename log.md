@@ -123,7 +123,7 @@
 
 ### Day 19: February 4, 2024
 
-**Today's Progress**:
+**Today's Progress**: Today I completed 2 steps of JavaScript Certification: Decimal to Binary Converter and Number Sorter. I learnt about bubble sort, selection sort and insertion sort
 
 ---
 
