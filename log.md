@@ -142,7 +142,7 @@
 ### Day 22: February 7, 2024
 
 **Today's Progress**: For my shopping website, I added a navbar and an 'active category' for the navbar. Then I added the items on the homepage.
-![https://github.com/zserraakkaya/100-days-of-code/blob/master/img/cartvista1.png]()
+!(https://github.com/zserraakkaya/100-days-of-code/blob/master/img/cartvista1.png)[]
 
 ---
 
