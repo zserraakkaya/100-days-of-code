@@ -129,19 +129,19 @@
 
 ### Day 20: February 5, 2024
 
-**Today's Progress**:
+**Today's Progress**: I started building Statistics Calculator on freeCodeCamp.
 
 ---
 
 ### Day 21: February 6, 2024
 
-**Today's Progress**:
+**Today's Progress**: I got accepted for a full stack development internship at GrowIntern! I have two tasks to do: An e-commerce website and a social media website. I started doing an e-commerce website called 'Cart Vista'.
 
 ---
 
 ### Day 22: February 7, 2024
 
-**Today's Progress**:
+**Today's Progress**: For my shopping website, I added a navbar and an 'active category' for the navbar. Then I added the items on the homepage.
 
 ---
 
