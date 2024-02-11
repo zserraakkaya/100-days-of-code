@@ -166,7 +166,7 @@
 
 ### Day 26: February 11, 2024
 
-**Today's Progress**: Cart.jsx page added. When someone clicks 'add to cart' button on an item, that item added to the cart. And Cart.css page added.
+**Today's Progress**: Cart.jsx page added. When someone clicks 'add to cart' button on an item, that item added to the cart. And Cart.css page added. Count of items on the cart added to the cart icon's top-right corner.
 
 ---
 
