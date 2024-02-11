@@ -154,7 +154,7 @@
 
 ### Day 24: February 9, 2024
 
-**Today's Progress**:
+**Today's Progress**: SignInSignUp page&form and details for items added (add to cart, favorites)
 
 ---
 
