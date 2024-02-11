@@ -160,7 +160,7 @@
 
 ### Day 25: February 10, 2024
 
-**Today's Progress**:
+**Today's Progress**: Navbar categories are now dynamic taken from the all_products items categories.
 
 ---
 
