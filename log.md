@@ -172,7 +172,7 @@
 
 ### Day 27: February 12, 2024
 
-**Today's Progress**:
+**Today's Progress**: Server.js added. After that I add "Sell a Product" page, it goes directly to database. And then Sign In & Sign Up pages made. Relevant tables on database created. 
 
 ---
 
