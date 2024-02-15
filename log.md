@@ -184,13 +184,13 @@
 
 ### Day 29: February 14, 2024
 
-**Today's Progress**:
+**Today's Progress**: Only signed in users can see & use Sell Product and Favorites page. Favorites page shows favorited items.
 
 ---
 
 ### Day 30: February 15, 2024
 
-**Today's Progress**:
+**Today's Progress**: Size for jewelry category fixed. Now for jewelry there is only 1 'standard' size.
 
 ---
 
