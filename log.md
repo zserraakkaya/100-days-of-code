@@ -196,24 +196,25 @@
 
 ### Day 31: February 16, 2024
 
-**Today's Progress**:
+**Today's Progress**: Small problems fixed on CartVista. Last changes made.
 
 ---
 
 ### Day 32: February 17, 2024
 
-**Today's Progress**:
+**Today's Progress**: [CartVista repository link](https://github.com/zserraakkaya/CartVista-GrowIntern)
+I completed CartVista!
 
 ---
 
 ### Day 33: February 18, 2024
 
-**Today's Progress**:
+**Today's Progress**: I continue to do Statistics Calculator on freeCodeCamp's JavaScript Certification.
 
 ---
 
 ### Day 34: February 19, 2024
 
-**Today's Progress**:
+**Today's Progress**: Made progress on JavaScript Certification.
 
 ---
